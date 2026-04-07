@@ -2,7 +2,7 @@
   import { BrowserRouter, Route, Routes } from 'react-router'
   import Home from './Pages/Home'
   import Login from './Pages/Login'
-  import Register from './Pages/register'
+  import Register from "./Pages/Register";
   import Products from './Pages/Products'
   import ProductContext, { PostContext } from './Context/ProductContext'
   import About from './Pages/About'
