@@ -3,7 +3,7 @@ import { Link } from 'react-router'
 import HeroImg from '../../assets/Hero.png'
 import Clothing from '../../assets/Clothing.png'
 import Shoes from '../../assets/Shoes.png'
-import ACCESSORIES from '../../assets/ACCESSORIES.png'
+import ACCESSORIES from "../../assets/Accessories.png";
 
 const Hero = () => {
   return (
